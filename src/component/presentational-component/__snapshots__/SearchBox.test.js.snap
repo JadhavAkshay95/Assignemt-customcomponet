@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search Box Component Should render Searc hBox component 1`] = `
+<Fragment>
+  <div>
+    <input
+      onChange={[Function]}
+      placeholder="search by name"
+    />
+  </div>
+</Fragment>
+`;

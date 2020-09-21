@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Emp details Component Should render Emp details component 1`] = `
+<UNDEFINED
+  employee={
+    Object {
+      "avaibility": "3",
+      "designation": "Senior UI developer",
+      "exp": 11,
+      "id": "1",
+      "isOpenForRelocation": false,
+      "location": Array [
+        "Indore",
+        "Pune",
+      ],
+      "message": "",
+      "name": "John Smith",
+      "skills": Array [
+        "UX",
+        "UI",
+        "Visual",
+      ],
+      "technologies": Array [
+        "XD",
+        "Sketch",
+        "Figma",
+      ],
+    }
+  }
+  open="true"
+/>
+`;

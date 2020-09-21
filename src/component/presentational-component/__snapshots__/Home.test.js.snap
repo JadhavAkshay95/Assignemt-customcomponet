@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Component Should render Home component 1`] = `
+<Fragment>
+  <Header />
+  <div
+    className="emp-container"
+  >
+    <Connect(EmpFilter) />
+    <div
+      className="emp-list-container"
+    >
+      <Connect(EmployeeList) />
+    </div>
+  </div>
+</Fragment>
+`;

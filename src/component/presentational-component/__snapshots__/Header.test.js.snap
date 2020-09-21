@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component Should render header component 1`] = `
+<Fragment>
+  <WithStyles(ForwardRef(AppBar))
+    position="fixed"
+  >
+    <WithStyles(ForwardRef(Toolbar))>
+      <div
+        className="header-container-dta"
+      >
+        <WithStyles(ForwardRef(IconButton))
+          aria-label="menu"
+          className="makeStyles-menuButton-2"
+          color="inherit"
+          edge="start"
+        >
+          <MenuIcon />
+          <span>
+            Mployee
+          </span>
+        </WithStyles(ForwardRef(IconButton))>
+        <Connect(SearchBox) />
+      </div>
+    </WithStyles(ForwardRef(Toolbar))>
+  </WithStyles(ForwardRef(AppBar))>
+</Fragment>
+`;
